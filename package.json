@@ -1,0 +1,15 @@
+diff --git a/package.json b/package.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..c792981947a3daf0240eebca285728af9513936d
+--- /dev/null
++++ b/package.json
+@@ -0,0 +1,9 @@
++{
++  "name": "miniature-broccoli",
++  "version": "1.0.0",
++  "private": true,
++  "description": "스마트 농장 운영 대시보드",
++  "scripts": {
++    "start": "node server.js"
++  }
++}
