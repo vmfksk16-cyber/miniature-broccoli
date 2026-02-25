@@ -1,0 +1,9 @@
+{
+  "name": "miniature-broccoli",
+  "version": "1.0.0",
+  "private": true,
+  "description": "스마트 농장 운영 대시보드",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
